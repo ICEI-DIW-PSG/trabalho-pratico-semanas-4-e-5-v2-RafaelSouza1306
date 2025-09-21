@@ -1,3 +1,7 @@
+html {
+    height: 100%;
+}
+
 body {
     background-color: black;
     margin: 20px;
@@ -11,10 +15,9 @@ header {
     border: 2px solid;
     justify-content: space-between;
     align-items: center;
-    border: 2px solid black;
+    border: 2px solid rgb(235, 231, 231);
     padding: 10px;
     background-color: rgb(148, 23, 23);
-    ;
 }
 
 .logo {
@@ -100,5 +103,42 @@ footer a {
 
 .redes {
     border: 2px solid black;
+}
 
+@media (max-width: 768px) {
+    main {
+        flex-direction: column; 
+    }
+
+    header {
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .menu {
+        flex-direction: column; 
+        gap: 10px;
+        width: 100%;
+        align-items: center;
+    }
+
+    .menu a {
+        width: 80%;
+        text-align: center;
+    }
+
+    footer {
+        flex-direction: column;
+        width: 100%;
+        padding: 5px 5px;
+
+    }
+
+    .imagem {
+        width: 100%;
+        height: auto;
+        float: none;
+        margin: 0 auto 15px auto; 
+        display: block;
+    }
 }
