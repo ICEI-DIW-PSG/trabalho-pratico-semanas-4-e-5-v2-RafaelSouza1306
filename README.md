@@ -11,18 +11,19 @@ No trabalho dessa semana vamos evoluir o projeto para que a home-page funcione b
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome:Rafael Teixeira de Souza
+- Matricula:1560194
+- Proposta de projeto escolhida:Charlie Brown Jr.
+- Breve descrição sobre seu projeto:Site da banda de rock.
 
 ## Print da versão responsiva com CSS puro [DESKTOP]
 
-<<  COLOQUE A IMAGEM AQUI >>
+![alt text](image.png)
 
 ## Print da versão responsiva com CSS puro [MOBILE] (*)
 
-<<  COLOQUE A IMAGEM AQUI >>
+![alt text](image-1.png)
+![alt text](image-2.png)
 
 
 (*) Utilize as ferramentas do desenvolvedor do seu navegador para colocar no modo reponsivo, escolha um celular qualquer e recarregue a página antes de tirar o print. 
